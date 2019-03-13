@@ -1,6 +1,7 @@
 {
   "name": "moving-line-sample",
   "version": "0.0.0",
+  "homepage": "https://chase0213.github.io/moving-ilne-sample/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
