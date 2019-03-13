@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { AnimationDirection } from '../../projects/moving-line/src/lib/moving-line.component';
+import { AnimationDirection } from 'moving-line';
 
 @Component({
   selector: 'app-root',
